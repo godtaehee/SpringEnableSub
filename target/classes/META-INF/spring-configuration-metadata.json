@@ -1,0 +1,23 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.taehee.TaeheeProperties",
+      "name": "taehee",
+      "type": "com.taehee.TaeheeProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.taehee.TaeheeProperties",
+      "defaultValue": 0,
+      "name": "taehee.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.taehee.TaeheeProperties",
+      "name": "taehee.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
